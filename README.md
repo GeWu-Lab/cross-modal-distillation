@@ -11,13 +11,6 @@ Extensive experiments show that our method could bring a performance boost compa
 
 ![pipeline](./imgs/pipeline.jpeg)
 
-## Install
-
-```
-git clone git@github.com:GeWu-Lab/cross-modal-knowledge-distillation-for-unconstrained-videos.git
-cd cross-modal-knowledge-distillation-for-unconstrained-videos
-pip install -r requirements.txt
-```
 
 ## Traing & Validation
 Use the following commands to test on UCF51 dataset. The checkpoints of our model are in `results` dir.
