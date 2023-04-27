@@ -1,5 +1,5 @@
-# Robust Cross-Modal Distillation for Unconstrained Videos
-PyTorch implementation of [Robust Cross-Modal Distillation for Unconstrained Videos]()
+# Robust Cross-Modal Knowledge Distillation for Unconstrained Videos
+PyTorch implementation of [Robust Cross-Modal Knowledge Distillation for Unconstrained Videos]()
 
 ## Introduction
 
@@ -45,7 +45,12 @@ The dataset and checkpoints could download from [here](https://1drv.ms/f/s!AooeT
 
 ## Bibtex
 ```
-    
+@article{xia2023robust,
+  title={Robust Cross-Modal Knowledge Distillation for Unconstrained Videos},
+  author={Xia, Wenke and Li, Xingjian and Deng, Andong and Xiong, Haoyi and Dou, Dejing and Hu, Di},
+  journal={arXiv preprint arXiv:2304.07775},
+  year={2023}
+} 
 ```
 
 
